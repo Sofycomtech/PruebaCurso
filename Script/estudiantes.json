@@ -1,0 +1,56 @@
+[
+  {
+    "rut": "12.345.678-9",
+    "nombre": "Juan",
+    "apellido": "Pérez",
+    "fechaNacimiento": "15/04/2000",
+    "carrera": "Informática",
+    "sede": "Santiago",
+    "ciudad": "Santiago"
+  },
+  {
+    "rut": "18.765.432-1",
+    "nombre": "María José",
+    "apellido": "González",
+    "fechaNacimiento": "22/11/1999",
+    "carrera": "Enfermería",
+    "sede": "Viña del Mar",
+    "ciudad": "Valparaíso"
+  },
+  {
+    "rut": "20.123.456-K",
+    "nombre": "Pedro",
+    "apellido": "Soto",
+    "fechaNacimiento": "03/08/2001",
+    "carrera": "Ingeniería Civil",
+    "sede": "Concepción",
+    "ciudad": "Concepción"
+  },
+  {
+    "rut": "15.987.654-3",
+    "nombre": "Ana",
+    "apellido": "Silva",
+    "fechaNacimiento": "12/01/1998",
+    "carrera": "Psicología",
+    "sede": "San Joaquín",
+    "ciudad": "Santiago"
+  },
+  {
+    "rut": "17.456.789-0",
+    "nombre": "Carlos",
+    "apellido": "Mendoza",
+    "fechaNacimiento": "30/05/1997",
+    "carrera": "Contabilidad",
+    "sede": "Rancagua",
+    "ciudad": "Rancagua"
+  },
+  {
+    "rut": "19.321.654-2",
+    "nombre": "Valentina",
+    "apellido": "Rojas",
+    "fechaNacimiento": "08/09/2000",
+    "carrera": "Diseño Gráfico",
+    "sede": "Valdivia",
+    "ciudad": "Valdivia"
+  }
+]
